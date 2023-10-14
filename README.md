@@ -26,7 +26,7 @@ Obrigado por chegar até aqui. Você encontrará modelagem estatística, séries
 
 # Projetos Realizados
 
-## Visualização em dados para que seja observado se o jogador mudou o resultado da Partida https://github.com/DataGols/artigo1/blob/main/Visualiza%C3%A7%C3%A3o-em-dados-se-o-jogador-mudou-o-resultado-da-Partida..html.
+## Visualização em dados para que seja observado se o jogador mudou o resultado da Partida src="https://github.com/DataGols/artigo1/blob/main/Visualiza%C3%A7%C3%A3o-em-dados-se-o-jogador-mudou-o-resultado-da-Partida..html"
 
 ###### RStudio | Visualização-em-dados-se-o-jogador-mudou-o-resultado-da-Partida..pdf 
 
